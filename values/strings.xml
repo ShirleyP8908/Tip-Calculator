@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="textView_billAmountHint" />
+    <string-array name="numberos">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    </string-array>
+</resources>
